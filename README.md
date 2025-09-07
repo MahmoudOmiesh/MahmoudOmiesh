@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mahmoud</h1>
-<h3 align="center">A full-stack web-developer, I work with NextJS and the modern JavaScript/TypeScript ecosystem, I care about building things with a clean architecture and no unnecessary fluff.</h3>
+<p align="center">A full-stack web-developer, I work with NextJS and the modern JavaScript/TypeScript ecosystem, I care about building things with a clean architecture and no unnecessary fluff.</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
