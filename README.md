@@ -1,6 +1,7 @@
 <h1>Hi 👋, I'm Mahmoud</h1>
 <p>I'm a full-stack web-developer, I work with NextJS and the modern JavaScript/TypeScript ecosystem</p>
 <p>i use arch btw</p>
+<p>check out my [personal site](https://mahmoudomiesh.vercel.app/)</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
