@@ -5,8 +5,6 @@
   <a href="https://omiesh.dev/resume.pdf">résumé</a>
   <br />
   <br />
-  Building web apps at <a href="https://firstimpactmed.com">FirstImpact Med</a> and <a href="https://logibytes.sa/en/">Logibytes</a>.
-  <br />
-  On the side, <a href="https://github.com/MahmoudOmiesh/Inscribe">Inscribe</a>, a local-first notes app.
+  I build web apps, from the database to the last detail on screen.
 </div>
 </samp>
